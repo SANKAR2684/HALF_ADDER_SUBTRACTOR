@@ -68,7 +68,8 @@ endmodule
 Developed by: RegisterNumber:*/
 
 **RTL Schematic**
-![Screenshot 2024-11-05 105136](https://github.com/user-attachments/assets/636da809-3523-4d5b-9af5-9abc7e23de29)
+
+![Screenshot 2024-11-05 102543](https://github.com/user-attachments/assets/6180bc03-9a7a-41ea-a59a-345081e94777)
 
 **Out!
 put/TIMING Waveform**
