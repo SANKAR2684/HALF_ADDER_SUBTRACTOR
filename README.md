@@ -70,8 +70,10 @@ Developed by: RegisterNumber:*/
 **RTL Schematic**
 ![Screenshot 2024-11-05 105136](https://github.com/user-attachments/assets/636da809-3523-4d5b-9af5-9abc7e23de29)
 
-**Out![Screenshot 2024-11-05 105136](https://github.com/user-attachments/assets/fb6a59ed-91dd-463e-8bc6-9226ba6f2ba4)
+**Out!
 put/TIMING Waveform**
+
+![Screenshot 2024-11-05 103000](https://github.com/user-attachments/assets/27e60db4-824d-4299-92c4-18984b1d7547)
 
 **Result:**
 Thus the half order and half subtracter circuit and truth table are verified
